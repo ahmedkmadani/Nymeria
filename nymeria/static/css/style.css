@@ -1092,7 +1092,7 @@ h3 {
   transition: transform 500ms ease, background 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
-  background: #1F1F1F;
+  background: #003b55;
 }
 
 /* line 165, ../../Arafath/CL/December/233. Startup/HTML/scss/_header.scss */
@@ -1983,7 +1983,7 @@ h3 {
 .footer .footer_top {
   padding-top: 100px;
   padding-bottom: 160px;
-  background: #1F1F1F;
+  background: #003b55;
 }
 
 @media (max-width: 767px) {
@@ -2059,7 +2059,7 @@ h3 {
 /* line 51, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
 .footer .copy-right_text {
   padding-bottom: 25px;
-  background: #1F1F1F;
+  background: #003b55;;
 }
 
 /* line 54, ../../Arafath/CL/December/233. Startup/HTML/scss/_footer.scss */
