@@ -4,5 +4,5 @@ import logging
 logging.basicConfig(stream=sys.stderr)
 sys.path.insert(0,"/var/www/Nymeria/")
 
-from FlaskApp import app as application
+from Nymeria import app as application
 application.secret_key = 'winteriscoing'
